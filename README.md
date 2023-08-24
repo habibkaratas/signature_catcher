@@ -2,17 +2,17 @@
 File Signatures Detecting
 
 
-Merhaba teknoloji meraklıları,
+Hi Guys,
 
-Geliştirdiğim dijital imza toplayıcı aracı ile veri kurtarma ve adli bilişim alanında çalışma yapan kişilere yardımcı olacak bu araçla işlerinizi kolaylaştırabilirsiniz. Dosya türlerine ait dijital imzaların bu alandaki kritik önemini göz önünde bulundurarak, bu aracı geliştirdim ve şimdi de sizin katkılarınıza açıyorum.
+With the digital signature collector tool I've developed, you can simplify your work in data recovery and digital forensics. This tool is designed to assist individuals working in the field of data recovery and digital forensics. Taking into consideration the critical importance of digital signatures associated with file types in this field, I have developed this tool and now I'm opening it up to your contributions.
 
-GitHub reposunda yayınladığım bu araç, veri bütünlüğünü koruma ve veri kurtarma süreçlerini geliştirme hedefimize ulaşmamızı sağlayacak. Siz de veri güvenliği ve adli bilişim konularına ilgi duyuyorsanız, bu projede yer alarak katkıda bulunabilirsiniz.
+The tool, which I have published on GitHub repository, will help us achieve our goal of preserving data integrity and enhancing data recovery processes. If you have an interest in data security and digital forensics, you can contribute by getting involved in this project.
 
-Bu aracı kullanarak, dosya türlerine ait dijital imzaları toplamak ve doğrulamak konusunda yardımcı olabilirsiniz. Ayrıca, aracı test ederek geri bildirimde bulunabilir, hataları raporlayabilir ve geliştirme önerilerinizi paylaşabilirsiniz. Sizin deneyiminiz ve bakış açınız, projenin daha da güçlenmesine yardımcı olabilir.
+By using this tool, you can contribute by collecting and verifying digital signatures associated with file types. Moreover, you can test the tool, provide feedback, report any errors you encounter, and share your suggestions for improvements. Your expertise and insights can significantly strengthen the project.
 
-Buradaki hedefimiz, veri güvenliği ve adli bilişim alanında yeni kapılar açmak ve topluluğumuzun bilgi birikimini artırmaktır. Eğer siz de bu amaç doğrultusunda katkıda bulunmak isterseniz, aracı indirebilir ve çalışmaya başlayabilirsiniz.
+Our objective here is to open new doors in the field of data security and digital forensics, and to enhance the collective knowledge of our community. If you're inclined to contribute towards this goal, feel free to download the tool and get started.
 
-Unutmayın ki, her katkı değerlidir ve birlikte bu projeyi daha da ileriye taşımaktan mutluluk duyarım!
+Remember, every contribution is valuable, and I would be delighted to work together in advancing this project further.
 
-Güvenli Günler Dilerim,
+Wishing you secure days ahead,
 Habib Karataş
