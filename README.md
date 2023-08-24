@@ -14,5 +14,4 @@ Our objective here is to open new doors in the field of data security and digita
 
 Remember, every contribution is valuable, and I would be delighted to work together in advancing this project further.
 
-Wishing you secure days ahead,
-Habib Karataş
+Wishing you secure days ahead
